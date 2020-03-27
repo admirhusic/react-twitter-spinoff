@@ -935,8 +935,8 @@ acorn-walk@^6.0.1:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-6.1.0.tgz#c957f4a1460da46af4a0388ce28b4c99355b0cbc"
 
 acorn@^5.0.0, acorn@^5.0.3, acorn@^5.5.3, acorn@^5.6.0, acorn@^5.6.2:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
 
 acorn@^6.0.1, acorn@^6.0.2:
   version "6.0.2"
@@ -6791,6 +6791,13 @@ react-scripts@2.0.5:
   optionalDependencies:
     fsevents "1.2.4"
 
+react-twitter-parser@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-twitter-parser/-/react-twitter-parser-1.1.0.tgz#440c488db9b79c593d8f2d574051af4fcbc52d95"
+  dependencies:
+    prop-types "^15.6.1"
+    tweet-parser "^0.2.0"
+
 react@^16.5.2:
   version "16.5.2"
   resolved "https://registry.yarnpkg.com/react/-/react-16.5.2.tgz#19f6b444ed139baa45609eee6dc3d318b3895d42"
@@ -7900,6 +7907,10 @@ tunnel-agent@^0.6.0:
   resolved "https://registry.yarnpkg.com/tunnel-agent/-/tunnel-agent-0.6.0.tgz#27a5dea06b36b04a0a9966774b290868f0fc40fd"
   dependencies:
     safe-buffer "^5.0.1"
+
+tweet-parser@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/tweet-parser/-/tweet-parser-0.2.0.tgz#8b7fca158dd0098f8c98f7c99075d630cd9431dc"
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
