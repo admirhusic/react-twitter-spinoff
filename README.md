@@ -1,4 +1,4 @@
-# React Twittwer Spinoff
+# React Twitter Spinoff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instalation
